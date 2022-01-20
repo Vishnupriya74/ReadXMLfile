@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<StudentInfo>
+ <Student>
+  <Name>vishnu</Name>
+  <Enroll>102</Enroll>
+  <Dept>CSE</Dept>
+ </Student>
+ <Student>
+  <Name>priya</Name>
+  <Enroll>104</Enroll>
+  <Dept>ECE</Dept>
+ </Student>
+ <Student>
+  <Name>nithi</Name>
+  <Enroll>100</Enroll>
+  <Dept>EEE</Dept>
+ </Student>
+</StudentInfo>
